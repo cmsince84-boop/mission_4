@@ -1,3 +1,3 @@
 echo 'Hello from run.sh'
-I can say anything I like here
+echo 'I can say anything I like here'
 
